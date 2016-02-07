@@ -249,25 +249,10 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {77750573},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[⚡️ Xamarin Anti Spam Bot v1.6
-    
-  📢 Channel : @DarkTeam
-  👤 Admin : @AmirDark
-  
-  🙏 Special Thanks to :
-  
-        @PokerFace_Dev
-        @ShahabDark
-        @MR_Flat
-        @SinAw1
-        
-📝 Please send your feedback
-The command /feedback [text]
-  
-Checkout yon.ir/XamarinTG
+    about_text = [[aqamp3 v5.8
 ]],
     help_text_realm = [[
   
@@ -454,18 +439,6 @@ Checkout yon.ir/XamarinTG
 🌀 تکرار متن مورد نظر شما
 !echo [متن]
 
-🎤 فعال کردن قابلیت چت با ربات
-!plugins + chat group
-
-🎤 غیر فعال کردن قابلیت چت با ربات
-!plugins - chat group
-
-📝 فعال کردن پیام خوش آمد گویی
-!plugins + welcome group
-
-📝 غیر فعال کردن پیام خوش آمد گویی
-!plugins - welcome group
-
 🃏 ساخت عکس نوشته
 !tex [متن]
 
@@ -495,13 +468,6 @@ Checkout yon.ir/XamarinTG
 
 👤 اضافه کردن ادمین ربات به گروه
 !addsudo
-
-💬 توضيحات ضد اسپم
-!xamarin
-
-💬 راهنمای ربات (همین متن)
-!help
-
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 ⚠️ هرگونه سوال یا مشکل در ربات
